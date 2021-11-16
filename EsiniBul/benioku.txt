@@ -1,0 +1,10 @@
+﻿1. Form uygulaması aç (EsiniBul)
+2. bir panele 16 buton yerleştir (4 x 4) ve bu butonları
+aynı zamanda Buton listesine de ekle
+3. semboller havuzunu oluştur "$₺€¥₾₽₪₦"
+4. 16lık char dizisi/listesi (8 çift sembol ve karışık)
+5. butona tıklayınca kaçıncı butonsa ona karşılık gelen
+sembol o butona metin olarak konulsun
+6. butona tıklandığında göster. ikinci butona tıklandığında da göster ama öncekiyle aynıysa ikisini de gizle. üçüncü butona tıklandığında önceki ikisini gizle ve göster.
+7. eğer hiç kart kalmadıysa oyun bitti yaz
+8. oyun bittiğinde tekrar oyna butonu belirsin ve butona tıklandığında oyun kartları yeni sembol dizilimiyle tekrardan oluşsun.
